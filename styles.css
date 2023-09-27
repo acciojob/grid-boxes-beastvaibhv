@@ -7,7 +7,7 @@ body{
 	width: 100vb;
 	display:grid;
 	grid-template-columns: repeat(4, 1fr);
-	grid-template-rows: repeat(5, 1fr);
+	grid-template-rows: repeat(5, 124px);
 	background-color: white;
 	color: white;
 	font-weight: bolder;
