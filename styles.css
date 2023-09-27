@@ -4,9 +4,10 @@ body{
 }
 #grid{
 	height: 100vh;
+	width: 100vb;
 	display:grid;
-	grid-template-columns: repeat(4, 25%);
-	grid-template-rows: repeat(5, 20%);
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-rows: repeat(5, 1fr);
 	background-color: white;
 	color: white;
 	font-weight: bolder;
